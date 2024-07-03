@@ -1,2 +1,2 @@
 # cheatsheets
-Some Cheatsheets
+some cheatsheets collected from the internet
